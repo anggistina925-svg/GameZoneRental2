@@ -1,0 +1,30 @@
+# GameZone Rental PlayStation
+
+## Deskripsi
+GameZone Rental PlayStation adalah aplikasi Java berbasis console untuk menghitung biaya penyewaan PlayStation.
+
+## Fitur
+- Input nama pelanggan.
+- Pilihan PlayStation 4 dan PlayStation 5.
+- Perhitungan biaya berdasarkan durasi bermain.
+- Diskon 10% untuk penyewaan minimal 3 jam.
+- Tambahan minuman seharga Rp5.000.
+- Cetak struk pembayaran.
+- Pilihan transaksi baru.
+
+## Teknologi
+- Java
+- Apache NetBeans
+- Scanner
+
+## Contoh Pengujian
+- Nama pelanggan: Budi
+- Konsol: PlayStation 5
+- Durasi: 4 jam
+- Biaya sewa: Rp48.000
+- Diskon: Rp4.800
+- Minuman: Rp5.000
+- Total bayar: Rp48.200
+
+## Screenshot
+Lihat folder `screenshots` untuk melihat hasil program.
